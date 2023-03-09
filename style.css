@@ -1,0 +1,179 @@
+*{
+    font-family: serif;
+}
+.r1{
+    display: flex;
+    width: 100%;
+    height:12vh;
+    background-color: rgb(107, 48, 245);
+
+}
+.logo{
+    height: 100%;
+    width: 20%;
+    margin-left: 3%;
+}
+.log{
+    height: 100%;
+    width: auto;
+}
+.nav-a{
+    color: white;
+    transition: .5s;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 1vh;
+    margin-right: 1vh;
+
+}
+.nav-a:hover{
+    text-shadow:0px 0px 5px black;
+}
+.nav{
+    width: 70%;
+    margin-top: 29px;
+    text-align: right;
+}
+
+.r2{
+    display: flex;
+    width: 100%;
+   
+}
+.man1{
+    width: 25%;
+    height: auto;
+    background-color: rgb(107, 48, 245);
+   margin-left: 1.5%;
+   margin-right: 1.5% ;
+   transition: 0.5s;
+}
+.man1:hover{
+    box-shadow: 0px 0px 14px 6px gray;
+}
+.bannerman{
+    display: flex;
+    width: 100%;
+
+}
+.manbb{
+    width:50%;
+}
+.bannerf{
+    background-image: url("baner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    background-attachment: fixed;
+    
+}
+.futter{
+    background-color: rgb(21, 17, 45);
+    height: auto;
+    color:white;
+    margin-right: 0%;
+   margin-left: 0%;
+   display: flex;
+   width: 100%;
+   
+}
+.futter1,.futter2,.futter3,.futter4{
+    margin-left: 3vh;
+    margin-right: 3vh;
+    text-align: center;
+}
+.futter1{
+    width: 35%;
+   
+    margin-left: 5%;
+
+}
+.futter2,.futter3,.futter4{
+    width: 35%;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+}
+.futter2,.futter3,.futter4{
+        padding-top: 8vh;
+
+}
+.call1{
+    font-size: 18px;
+    margin-bottom: 8vh;
+    text-align: center;
+    color: white;
+}
+.call{
+    font-size: 14px;
+    text-align: center;
+    color: white;
+}
+.thanks{
+    border: none;
+    transition: 0.3s;
+
+}
+.thanks:hover{
+    box-shadow: 0px 0px 10px 5px;
+    background-color: rgb(72, 69, 69);
+    color: white;
+}
+.futt{
+    background-color: rgb(21, 17, 45) ;
+}
+hr{
+    color: white;
+}
+.icn{
+    transition: 0.5s;
+    text-decoration: none;
+    color:white;    
+
+ 
+}
+.icn:hover{
+    text-shadow: 0px 0px 10px white;
+    color:rgb(0, 0, 0) ;
+    text-align: center;
+}
+.hedh1{
+    text-shadow: 5px 5px 10px;
+    text-align: center;
+}
+.manimg{
+    width: 100%;
+}
+.linka{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.logofut{
+ margin-top: 2vh;    
+ width: 50%;
+
+ text-align: justify;
+}
+.pfutt{
+    color: white;
+    padding-top: 1vh;
+    text-align: justify;
+    margin-left: 25%;
+
+}
+.pfut a{
+    color: white;
+    text-decoration: none;
+    text-align: justify;
+    transition: 0.5s;
+}
+.pfut{
+    text-align: justify;
+    margin-left: 25%;
+
+}
+.pfut a:hover{
+    color: red;
+
+}
